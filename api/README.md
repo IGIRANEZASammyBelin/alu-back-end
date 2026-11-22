@@ -20,3 +20,5 @@ their TODO lists.
   tasks to `USER_ID.csv`.
 - `2-export_to_JSON.py`: takes an employee ID and exports all of their
   tasks to `USER_ID.json`.
+- `3-dictionary_of_list_of_dictionaries.py`: exports the tasks of all
+  employees to `todo_all_employees.json`.
