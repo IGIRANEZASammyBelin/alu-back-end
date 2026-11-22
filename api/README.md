@@ -16,3 +16,5 @@ their TODO lists.
 ## Usage
 
     ./0-gather_data_from_an_API.py 2
+- `1-export_to_CSV.py`: takes an employee ID and exports all of their
+  tasks to `USER_ID.csv`.
